@@ -49,7 +49,6 @@
     "jest": "^29.3.1",
     "jest-canvas-mock": "^2.4.0",
     "jest-environment-jsdom": "^29.3.1",
-    "my-react-typescript-package": "^1.0.0",
     "parcel": "^2.8.0",
     "prettier": "^2.8.0",
     "react": "^18.2.0",

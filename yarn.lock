@@ -3868,11 +3868,6 @@ msgpackr@^1.5.4:
   optionalDependencies:
     msgpackr-extract "^2.2.0"
 
-my-react-typescript-package@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/my-react-typescript-package/-/my-react-typescript-package-1.0.0.tgz#e8c00c21bec5ac2f2f631a00a569b7b050d1bcb9"
-  integrity sha512-QYyexFl7zQ9H6HOrERhpS/pG8jfFB1M9ViroYYeGbZ0hu78PJWJZaRwAAa9QbouYSYV/nHQMBr2mqS6YBMF++g==
-
 natural-compare-lite@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/natural-compare-lite/-/natural-compare-lite-1.4.0.tgz#17b09581988979fddafe0201e931ba933c96cbb4"
@@ -4287,6 +4282,11 @@ queue-microtask@^1.2.2:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
+
+r_npm_test_package@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/r_npm_test_package/-/r_npm_test_package-1.0.0.tgz#532014b55cd355d393526ddbf0e190d3e0f5157c"
+  integrity sha512-K3R/6Yrny9JDuqjwXY7sEzWxTyFYEWDQwwo2svhZNvIdbD1PWb2NM3bbS8+Z+SR49Q+lbkE2zAkg+eEbq0NA4w==
 
 react-dom@^18.2.0:
   version "18.2.0"
