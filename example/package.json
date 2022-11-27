@@ -8,7 +8,7 @@
   "devDependencies": {
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
-    "r_npm_test_package": "^1.0.0",
+    "r_npm_test_package": "^1.0.1",
     "parcel": "^2.8.0",
     "process": "^0.11.10",
     "react": "^18.2.0",
