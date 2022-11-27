@@ -1,5 +1,5 @@
 {
-  "name": "npm_test_package",
+  "name": "r_npm_test_package",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/cjs/index.js",
